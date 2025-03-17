@@ -57,11 +57,3 @@ Start the server
 ```bash
   npm run start
 ```
-
-## Overview
-
-[Click here](https://www.youtube.com/watch?v=KHuJt7d3LaE) to watch a video tutorial that will guide you on how to use.
-
-### Repo Activity
-
-![Activity](https://repobeats.axiom.co/api/embed/8b0c64ead3305429184c5b103322571499b9d2ee.svg "Repobeats analytics image")
